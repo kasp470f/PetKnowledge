@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:book_of_taming"
+            }
+        }
+    },
+    "rewards": {
+        "function": "taming_book:give_book"
+    }
+}
