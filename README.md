@@ -1,6 +1,8 @@
 # PetKnowledge
  
-A datapack for looking at information about your pet in Minecraft. Currently you have to craft a book. Both cats and dogs works. You are able to feed them their favorite food in order to level up. For Dogs it is Raw Rabbit, and for Cats it is Raw Salmon
+A datapack for looking at information about your pet in Minecraft. Currently you have to craft a book. Both cats and dogs works. 
+
+You are able to feed them their favorite food in order to level up. For Dogs it is Raw Rabbit, and for Cats it is Raw Salmon
 Currently you can see: 
 - Name
 - Health
